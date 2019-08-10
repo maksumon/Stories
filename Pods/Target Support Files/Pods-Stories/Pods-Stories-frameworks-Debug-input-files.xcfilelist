@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-Stories/Pods-Stories-frameworks.sh
+${BUILT_PRODUCTS_DIR}/JSONModel/JSONModel.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
